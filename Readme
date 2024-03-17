@@ -1,4 +1,4 @@
-# Brain Tumor Detector
+#Brain Tumor Detector
 
 ## Description
 Brain Tumor Detector is a MATLAB application designed to detect brain tumors in MRI images. It provides a graphical user interface (GUI) for users to upload MRI images, apply image processing techniques such as median filtering and edge detection, and finally detect and visualize tumors in the images.
